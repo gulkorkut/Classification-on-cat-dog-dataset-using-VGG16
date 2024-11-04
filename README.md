@@ -1,6 +1,3 @@
-README dosyasında kodları vermek zorunda değilsiniz. Aslında, temel açıklamalar ve sürecin genel hatlarıyla anlatılması, projenizi anlamak için yeterli olabilir. İşte kodları çıkardığımız bir README örneği:
-
----
 
 # Image Classification with CNNs
 
